@@ -8,4 +8,4 @@ _Спустя 8 месяцев после начала серийного вып
 
 
 
-![Иллюстрация к проекту](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.drive2.ru%2Fr%2Fnissan%2Fskyline%2F506264357647155252%2F&psig=AOvVaw1Hem0v4JhxbduN0wbFHm3l&ust=1665540673555000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJiSztWM1_oCFQAAAAAdAAAAABAD)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.drive2.ru%2Fr%2Fnissan%2Fskyline%2F506264357647155252%2F&psig=AOvVaw1Hem0v4JhxbduN0wbFHm3l&ust=1665540673555000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCJiSztWM1_oCFQAAAAAdAAAAABAD)
