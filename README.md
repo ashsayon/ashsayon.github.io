@@ -8,3 +8,5 @@ _Спустя 8 месяцев после начала серийного вып
 
 
 ![Image alt](https://a.d-cd.net/OAAAAgF2ROA-960.jpg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.drive2.ru%2Fr%2Fnissan%2Fskyline%2F506264357647155252%2F&psig=AOvVaw0JktDKLGVMOLInrhcLJsd5&ust=1665541194340000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMjNuM6O1_oCFQAAAAAdAAAAABAD)
+
+![Image alt]('https://repository-images.githubusercontent.com/549311216/d3bde277-7bc6-4059-b100-3c2705680b7f')
