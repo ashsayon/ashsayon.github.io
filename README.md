@@ -10,3 +10,4 @@ _Спустя 8 месяцев после начала серийного вып
 ![Image alt](https://a.d-cd.net/OAAAAgF2ROA-960.jpg)]
 
 
+![Image alt](https://github.com/ashsayon//raw/{branch}/{path}/image.png)
